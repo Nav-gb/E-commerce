@@ -26,4 +26,8 @@ CSS3: Handles the styling, including the hover effects, layout, and responsive d
 JavaScript: Implements the core functionality of the website, including fetching products from the API, adding them to the cart, and calculating the total bill.
 Fake Store API: A third-party API used to fetch product data dynamically.
 ![image](https://github.com/user-attachments/assets/42ed6a74-0df3-4e1a-bc9b-6ff237e67693)
+![image](https://github.com/user-attachments/assets/700cdeb5-7bc8-4736-8e05-cbb87d943362)
+![image](https://github.com/user-attachments/assets/5768b23c-a9b2-4bf0-a13e-5e45e32878b5)
+
+
 
