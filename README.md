@@ -25,3 +25,5 @@ HTML5: Provides the structural foundation of the website.
 CSS3: Handles the styling, including the hover effects, layout, and responsive design.
 JavaScript: Implements the core functionality of the website, including fetching products from the API, adding them to the cart, and calculating the total bill.
 Fake Store API: A third-party API used to fetch product data dynamically.
+![image](https://github.com/user-attachments/assets/42ed6a74-0df3-4e1a-bc9b-6ff237e67693)
+
